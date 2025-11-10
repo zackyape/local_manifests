@@ -3,7 +3,7 @@
   <remove-project path="hardware/qcom/gps" />
   <remove-project path="external/tinycompress" />
   <project path="external/tinycompress" name="arrowos/android_external_tinycompress" remote="github" revision="arrow-13.1" />
-  <project path="vendor/qcom/opensource/audio-hal/st-hal" name="arrowos/android_vendor_qcom_opensource_audio-hal_st-hal" remote="github" revision="arrow-13.1" />
+  <remove-project path="vendor/qcom/opensource/audio-hal/st-hal" name="arrowos/android_vendor_qcom_opensource_audio-hal_st-hal" remote="github" revision="arrow-13.1" />
   <project path="vendor/qcom/opensource/commonsys/display" name="arrowos/android_vendor_qcom_opensource_display-commonsys" remote="github" revision="arrow-13.1" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="arrowos/android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="github" revision="arrow-13.1" />
   <project path="vendor/qcom/opensource/dataservices" name="arrowos/android_vendor_qcom_opensource_dataservices" remote="github" revision="arrow-12.0" />
