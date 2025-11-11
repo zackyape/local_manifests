@@ -17,7 +17,7 @@
   <project path="hardware/qcom-caf/sm8150/audio" name="arrowos/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="arrow-13.1-caf-sm8150" />
   <project path="hardware/qcom-caf/sm8150/display" name="arrowos/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="github" revision="arrow-13.1-caf-sm8150" />
   <project path="hardware/qcom-caf/sm8150/media" name="arrowos/android_hardware_qcom_media" groups="qcom" remote="github" revision="arrow-13.1-caf-sm8150" />
-  <project path="device/xiaomi/vayu" name="arrowos-devices/android_device_xiaomi_vayu" remote="github" revision="arrow-13.1"  />
+  <project path="device/xiaomi/vayu" name="zackyape/android_device_xiaomi_vayu_arrow" remote="github" revision="arrow-13.1"  />
   <project path="vendor/xiaomi/vayu-miuicamera" name="bagaskara815/vendor_xiaomi_vayu-miuicamera" remote="github" />
   <project path="vendor/xiaomi/vayu" name="arrowos-devices/android_vendor_xiaomi_vayu" remote="github" revision="arrow-13.1" />
   <project path="kernel/xiaomi/vayu" name="arrowos-devices/android_kernel_xiaomi_vayu" remote="github" revision="arrow-13.1" />
